@@ -11,3 +11,5 @@ I like my code functional and structured and continue to dig deeper into more to
 -   I'm a  **career changer** 
 - Years of working with customers (especially angry ones) , looking for opportunities to face clients in the front line also implement marketing solutions that serves to the customers.
 -   Read me  ✌  Here's my  **LinkedIn:  [\[Alfred on LinkedIn\]](https://www.linkedin.com/in/alfredwang0707/)
+
+- Latest Project 😏 [\[Flat-Ping\]](https://github.com/alfredwang0707/flat-ping-frontend)
