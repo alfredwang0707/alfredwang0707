@@ -5,8 +5,6 @@ Base in NYC, from Taiwan
 
 I took my first steps into Web Development, designing websites back in the Xanga days copying and paste snow effects in the background feeling awesome. Years later I begin to find out more about what's happening under the hood.
 
-I like my code functional and structured and continue to dig deeper into more tools and technologies. Utilizing different libraries and reading their docs takes up most of my time during projects.
-
 Customer focused Software Engineer with expertise in Client Service, Relationship Management and industry knowledge of Financial Services, Banking and Hospitality.  Passionate about working face to face with customers, bridging technical and business teams using strong communication and technical skills to ensure client and business objectives are met.  Skilled at understanding consumer needs, identifying the key issues, defining solutions and building user friendly technology that makes clients lives easier. 
 
 
