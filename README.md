@@ -8,7 +8,7 @@ I took my first steps into Web Development, designing websites back in the Xanga
 Customer focused Software Engineer with expertise in Client Service, Relationship Management and industry knowledge of Financial Services, Banking and Hospitality.  Passionate about working face to face with customers, bridging technical and business teams using strong communication and technical skills to ensure client and business objectives are met.  Skilled at understanding consumer needs, identifying the key issues, defining solutions and building user friendly technology that makes clients lives easier. 
 
 
- -    **Current Stack:**  JavaScript, React, Ruby, Ruby on Rails, HTML, CSS, Node
+ -    **Current Stack:**  JavaScript, React, Node, Ruby, Ruby on Rails, HTML, CSS
  -    **Flatiron School February 2021 Alumni:**  a full-time, immersive Software Engineering bootcamp
  -   I'm a  **career changer** 
  - Years of working with customers (especially angry ones) , looking for opportunities to face clients in the front line also implement marketing solutions that serves to the customers.
