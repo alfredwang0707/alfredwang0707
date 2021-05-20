@@ -9,6 +9,7 @@ Customer focused Software Engineer with expertise in Client Service, Relationshi
 
 Goals for May:
 Data Visualization with D3
+More Node.js
 
  -    **Current Stack:**  JavaScript, React, Node, Ruby, Ruby on Rails, HTML, CSS
  -    **Flatiron School February 2021 Alumni:**  a full-time, immersive Software Engineering bootcamp
