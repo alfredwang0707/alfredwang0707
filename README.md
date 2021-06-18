@@ -16,7 +16,7 @@ Working on Ecommerce project in June.
  -   Read more about me  ✌  Here's my  [\[ LinkedIn\]](https://www.linkedin.com/in/alfredwang0707/)
 
  - Latest Project 😏 [\[Flat-Ping\]](https://github.com/alfredwang0707/flat-ping-frontend)
-
+ - Current Working on [\Crown Clothing Retail website\](https://github.com/alfredwang0707/crwn-clothing)
  
  Random hobbies of mine
  
