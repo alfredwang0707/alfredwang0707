@@ -15,7 +15,7 @@ Working on Ecommerce project in June.
  - Years of working with customers (especially angry ones) , looking for opportunities to face clients in the front line also implement marketing solutions that serves to the customers.
  -   Read more about me  ✌  Here's my  [\[ LinkedIn\]](https://www.linkedin.com/in/alfredwang0707/)
 
- - Current Working on E-commerce App [\[Crown Clothing Retail website\]](https://crown-clothing-nyc.herokuapp.com/)
+ - Current Working on E-commerce App [\[Crown Clothing \]](https://crown-clothing-nyc.herokuapp.com/)
  - Flatiron Capstone Project 😏 [\[Flat-Ping\]](https://github.com/alfredwang0707/flat-ping-frontend)
 
  
